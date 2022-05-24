@@ -1,2 +1,2 @@
 # bobbysreccenter
-A wordpress-based website featuring a fictious privately ownder rec center.
+A wordpress-based website featuring a fictitious privately ownder rec center.
